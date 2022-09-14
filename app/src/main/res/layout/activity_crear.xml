@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Crear">
+
+    <Button
+        android:id="@+id/bt_nueva_prenda"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nueva prenda"
+        tools:layout_editor_absoluteX="121dp"
+        tools:layout_editor_absoluteY="334dp" />
+
+    <Button
+        android:id="@+id/bt_editar_prenda"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Editar prenda"
+        tools:layout_editor_absoluteX="119dp"
+        tools:layout_editor_absoluteY="401dp" />
+
+    <Button
+        android:id="@+id/bt_eliminar_prenda"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Eliminar prenda"
+        tools:layout_editor_absoluteX="109dp"
+        tools:layout_editor_absoluteY="468dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>

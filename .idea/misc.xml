@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/INFOPUNTO/AndroidStudioProjects/NarcisitaporExcelencia/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/INFOPUNTO/AndroidStudioProjects/NarcisitaporExcelencia/app/src/main/res/layout/activity_agregar.xml" value="0.1675213675213675" />
+        <entry key="..\:/Users/INFOPUNTO/AndroidStudioProjects/NarcisitaporExcelencia/app/src/main/res/layout/activity_armario.xml" value="0.1675213675213675" />
+        <entry key="..\:/Users/INFOPUNTO/AndroidStudioProjects/NarcisitaporExcelencia/app/src/main/res/layout/activity_crear.xml" value="0.25" />
+        <entry key="..\:/Users/INFOPUNTO/AndroidStudioProjects/NarcisitaporExcelencia/app/src/main/res/layout/activity_gestionar.xml" value="0.21" />
+        <entry key="..\:/Users/INFOPUNTO/AndroidStudioProjects/NarcisitaporExcelencia/app/src/main/res/layout/activity_main.xml" value="0.33" />
       </map>
     </option>
   </component>
@@ -16,7 +20,7 @@
   <component name="VisualizationToolProject">
     <option name="state">
       <ProjectState>
-        <option name="scale" value="0.33" />
+        <option name="scale" value="0.18" />
       </ProjectState>
     </option>
   </component>
